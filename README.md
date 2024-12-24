@@ -1,4 +1,4 @@
-# Climora - A Weather forcase hub
+# Climora - A Weather Forecast Hub
 
 This repository contains task number 5 which is been done during my internship at <b>Prodigy Infotech</b>
 
