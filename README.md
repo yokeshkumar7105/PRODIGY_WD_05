@@ -17,14 +17,16 @@ The weather web page fetches real-time weather data using a weather API, allowin
 ![image](https://github.com/user-attachments/assets/00fd04fb-3eba-4527-b0bb-e8e1af077b47)
 
 
-![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Daily Report](https://img.shields.io/badge/Daily&nbsp;Report-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](https://github.com/user-attachments/assets/29a0e0c7-899a-4736-aaf4-a10b16c66a4a)
+![image](https://github.com/user-attachments/assets/55003982-f17c-4972-a705-11b246bac59c)
 
 
-![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Report in Celsius](https://img.shields.io/badge/Report&nbsp;in&nbsp;Celsius-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](https://github.com/user-attachments/assets/883e82e3-43ca-429b-974a-4ba96a62aaa1)
+![image](https://github.com/user-attachments/assets/c2742343-5ecd-40ce-a8b0-d5117794995d)
+
+
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
