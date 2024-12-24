@@ -1,16 +1,13 @@
-
-
 # Climora - A Weather forcase hub
 
-This repository contains task number 4 which is been done during my internship at <b>Prodigy Infotech</b>
+This repository contains task number 5 which is been done during my internship at <b>Prodigy Infotech</b>
 
-Built a personal portfolio website which showcases my skills, projects, and accomplishments as a web developer. I designed an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline and summary of my skills. Provided an "About Me" section with a detailed background and professional experience.
-<a href="https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/">Live Demo</a>
+The weather web page fetches real-time weather data using a weather API, allowing users to view current conditions based on their location or a searched city. It displays temperature, humidity, wind speed, and a weather description with relevant icons and dynamic backgrounds. Users can toggle between Celsius and Fahrenheit and access a 5-day forecast. Built with HTML, CSS, and JavaScript, it features a responsive design and smooth animations for an engaging experience. Future enhancements include dark mode, saving favorite locations, and voice search integration.
 
 
 ## Sample Screenshots
 
-![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Front Page](https://github.com/user-attachments/assets/5dd53e6c-902f-4e55-933a-293e57c4bf3e)
 
 ![image](https://github.com/user-attachments/assets/014d83f3-494e-4551-b59e-6d2a222f9a9f)
 
