@@ -4,6 +4,7 @@ This repository contains task number 5 which is been done during my internship a
 
 The weather web page fetches real-time weather data using a weather API, allowing users to view current conditions based on their location or a searched city. It displays temperature, humidity, wind speed, and a weather description with relevant icons and dynamic backgrounds. Users can toggle between Celsius and Fahrenheit and access a 5-day forecast. Built with HTML, CSS, and JavaScript, it features a responsive design and smooth animations for an engaging experience. Future enhancements include dark mode, saving favorite locations, and voice search integration.
 
+Checkout the Live demo: <a href="https://climoraweb.netlify.app/">Climora - Live Demo</a>
 
 ## Sample Screenshots
 
