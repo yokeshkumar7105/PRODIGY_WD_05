@@ -7,7 +7,7 @@ The weather web page fetches real-time weather data using a weather API, allowin
 
 ## Sample Screenshots
 
-![Front Page](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Front Page](https://img.shields.io/badge/Front&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/5dd53e6c-902f-4e55-933a-293e57c4bf3e)
 
