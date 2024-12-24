@@ -27,4 +27,4 @@ Checkout the Live demo: <a href="https://climoraweb.netlify.app/">Climora - Live
 
 ![image](https://github.com/user-attachments/assets/5b92eae3-d6ac-40d1-84a7-97178cbffdda)
 
-Want to go up? Just try this <a href="#top">Back to top 🚀</a>
+Want to go up? Just try this <a href="#top">Back to top</a>🚀
