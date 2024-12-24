@@ -12,9 +12,9 @@ The weather web page fetches real-time weather data using a weather API, allowin
 ![image](https://github.com/user-attachments/assets/5dd53e6c-902f-4e55-933a-293e57c4bf3e)
 
 
-![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Weekly Report](https://img.shields.io/badge/Weekly&nbsp;Report-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](https://github.com/user-attachments/assets/32d67caf-9cfa-451e-a9c8-68d99b79e75f)
+![image](https://github.com/user-attachments/assets/00fd04fb-3eba-4527-b0bb-e8e1af077b47)
 
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
